@@ -1,0 +1,21 @@
+# Byte-code files
+*.pyc
+__pycache__/
+venv/
+.venv/
+env/
+ENV/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.spyproject
+*.sublime-project
+*.idea/
+
+# Logs and other files
+*.log
+*.tmp
